@@ -8,7 +8,7 @@ Here you will find the material I use to teach reproducible science with `R` and
 
 * Manipulate and visualise data in the `tidyverse` [[slides](https://oliviergimenez.github.io/intro_tidyverse/#1)] [[material](https://github.com/oliviergimenez/intro_tidyverse)] [[tips](https://oliviergimenez.github.io/tidyverse-tips/)]
 
-* Focus on GIS and spatial data with `sf` [[slides](https://oliviergimenez.github.io/intro_spatialR/#1) [[material](https://github.com/oliviergimenez/intro_spatialR)]
+* Focus on GIS and spatial data with `sf` package [[slides](https://oliviergimenez.github.io/intro_spatialR/#1) [[material](https://github.com/oliviergimenez/intro_spatialR)]
 
 To-do list:
 
