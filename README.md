@@ -12,7 +12,7 @@ Here you will find the material I use to teach reproducible science with `R` and
 
 To-do list:
 
-* Add practical sessions (like in the R Markdown session)
+* Add practical sessions (like in the R Markdown session; pizza recipe example for GitHub)
 
 * Add something on how to work with Word using [`redoc`](https://bookdown.org/yihui/rmarkdown-cookbook/word-redoc.html)
 
