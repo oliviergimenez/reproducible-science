@@ -18,4 +18,4 @@ To-do list:
 
 * Add something on [how to collaborate on Rmd documents](https://bookdown.org/yihui/rmarkdown-cookbook/google-drive.html)
      
-* Briefly introduce the concept of research compendium [[paper](https://peerj.com/preprints/3192v1/)] [[package](https://github.com/benmarwick/rrtools)]
+* Briefly introduce the concept of research compendium [[paper](https://peerj.com/preprints/3192v1/)] [[`rrtools` package](https://github.com/benmarwick/rrtools)]
