@@ -21,3 +21,5 @@ To-do list:
 * Add something on [how to collaborate on Rmd documents](https://bookdown.org/yihui/rmarkdown-cookbook/google-drive.html)
      
 * Introduce the concept of research compendium [[paper](https://peerj.com/preprints/3192v1/)] [[`rrtools` package](https://github.com/benmarwick/rrtools)]
+
+* Improve the GitHub course with [this](https://inbo.github.io/git-course/course_rstudio.html), [this](https://ohshitgit.com/) and [that](https://privefl.github.io/R-presentation/rstudio-git.html#1)
