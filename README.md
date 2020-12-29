@@ -12,7 +12,7 @@ Here you will find the material I use to teach reproducible science with `R` and
 
 To-do list:
 
-* Write a general introduction to reproducible science
+* Write a general introduction to reproducible science; inspiration from this excellent [blog post](https://lgatto.github.io/open-and-rr-2/) and [slides](https://lgatto.github.io/2020_12_04_RSG_online/#1)
 
 * Add practical sessions (like in the R Markdown session; pizza recipe example for GitHub)
 
