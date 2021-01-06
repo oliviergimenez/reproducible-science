@@ -19,6 +19,8 @@ To-do list:
 * Add something on how to work with Word using [`redoc`](https://bookdown.org/yihui/rmarkdown-cookbook/word-redoc.html)
 
 * Add something on [how to collaborate on Rmd documents](https://bookdown.org/yihui/rmarkdown-cookbook/google-drive.html)
+
+* Check out this excellent [resource](https://psyteachr.github.io/msc-data-skills/)
      
 * Introduce the concept of research compendium [[paper](https://peerj.com/preprints/3192v1/)] [[`rrtools` package](https://github.com/benmarwick/rrtools)]
 
