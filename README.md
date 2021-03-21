@@ -1,6 +1,6 @@
 # Reproducible science with R and RStudio
 
-Here you will find the material I use to teach reproducible science with `R` and `RStudio`.
+Here you will find the material I use to teach reproducible science with `R` and `RStudio`. This is an old repo, please check [this dedicated website](https://oliviergimenez.github.io/reproducible-science-workshop/) I maintain for a workshop on reproducible science I run for the lab.
 
 * Introduction to `Git` and `GitHub` with `RStudio` [[slides](https://oliviergimenez.github.io/quick-intro-git-github-rstudio/#1)] [[material](https://github.com/oliviergimenez/quick-intro-git-github-rstudio)]
 
